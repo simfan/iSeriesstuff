@@ -1,0 +1,17 @@
+     A*%%TS  DD  20060918  154249  CPT46CDG    REL-V5.0.1  WDSc
+     A*%%EC
+     A                                      DSPSIZ(24 80 *DS3)
+     A          R EMPREC
+     A*%%TS  DD  20060918  154249  CPT46CDG    REL-V5.0.1  WDSc
+     A            FIELD1          T  B  2  5
+     A                                  2 66DATE
+     A                                      EDTCDE(Y)
+     A                                  7 10'Employee Name'
+     A                                 10 10'Employee Address'
+     A                                 13 10'City'
+     A                                 16 10'State'
+     A            EMPNAM        20   B  7 29
+     A            EMPADD        15   B 10 29
+     A            EMPCTY        15   B 13 29
+     A            EMPST          2   B 16 29
+     A*%%GP SCREEN1    01

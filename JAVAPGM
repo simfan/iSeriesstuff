@@ -1,0 +1,13 @@
+//JavaPgm.java
+
+import java.io.*;
+
+public class JavaPgm {
+
+   public static void main(String[] args) throws IOException {
+
+      System.out.println("Wow, my first Java program!");
+
+      System.out.println("If my friends could see me now!");
+   }
+}

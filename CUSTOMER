@@ -1,0 +1,5 @@
+                R CUSTREC                   TEXT('Customer Record')
+                  CUSNAM        15
+                  ADDR          30
+                  CONTACT       25
+                  PHONE         15
